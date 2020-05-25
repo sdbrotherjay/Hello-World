@@ -1,2 +1,8 @@
 # Hello-World
-ReadMe
+Read Me
+
+A Little Bit About Me,
+
+Firstly ion
+
+Lastly 0
